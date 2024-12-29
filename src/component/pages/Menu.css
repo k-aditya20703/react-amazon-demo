@@ -1,0 +1,26 @@
+.menucard{
+    width: 20rem;
+    background-color: rgb(238, 238, 238);
+
+
+    
+}
+.header{
+    background-color: #232F3E;
+    padding-left: 15px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    color: white;
+    border-top: 1px solid white;
+}
+.content{
+    margin-left: 1rem;
+    
+}
+.content h3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.content p {
+    color: #232F3E;
+    font-family: sans-serif;
+}

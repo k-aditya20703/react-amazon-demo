@@ -1,0 +1,53 @@
+.card{
+    background-color: #ffffff;
+    box-shadow: 0px 0px 10px;
+    /* background-image: linear-gradient(white,rgb(190, 190, 190)); */
+    /* border: 1px solid gray ; */
+    border-radius: 1rem;
+    padding: 1rem;
+    width: 15rem;
+
+    
+}
+
+.grid{
+    margin-top: 1rem;
+    margin-inline-start: 1rem;
+    display:inline-block;
+    justify-content: center;
+     align-items: center;
+     
+    
+}
+.card img{
+    width: 15rem;
+    border-radius: 10px;
+    
+}
+.card-title{
+    color: rgb(0, 0, 0);
+}
+.cardtext{
+    color: rgba(43, 43, 43, 0.822);
+}
+.addcart{
+    background-color: #fce040;
+    color: rgb(0, 0, 0);
+    padding: 0.5rem;
+    width: 15rem;
+    border: none;
+    border-radius: 1rem;
+}
+.buynow{
+    background-color: #fcb140;
+    color: rgb(0, 0, 0);
+    padding: 0.5rem;
+    width: 15rem;
+    border: none;
+    border-radius: 1rem;
+    margin-top: 5px;
+}
+.price{
+    font-size: 20px;
+    color: rgb(54, 170, 0);
+}
